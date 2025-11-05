@@ -1,0 +1,2 @@
+# OtakuOrganizer
+Anime episode tracker
